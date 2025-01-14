@@ -12,4 +12,5 @@ Jiayi Lin, fg24079@bristol.ac.uk, linjiayi987
 Yiqing Zhou, lr24125@bristol.ac.uk, Yiqingzz
 
 Xing Yang, zj24404@bristol.ac.uk, Yangxing7311
-![image]([https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg](https://github.com/Yiqingzz/group11/blob/main/%E7%85%A7%E7%89%87.jpg))
+
+![image]([https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg](https://github.com/Yiqingzz/group11/blob/main/%E7%85%A7%E7%89%87.jpg)](https://github.com/Yiqingzz/group11/blob/main/%E7%85%A7%E7%89%87.jpg)
