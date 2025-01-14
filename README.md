@@ -1,6 +1,6 @@
 # group11
 
 
-Siyuan Chen, markchensy@126.com, feixiangkong
+Siyuan Chen, gd23774@bristol.ac.uk, feixiangkong
 
-Cheng Wang, 3098124923@qq.com, jackskrparrow
+Cheng Wang, fd24967@bristol.ac.uk, jackskrparrow
